@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">shared preferences</string>
+    <string name="enter_value_to_save">enter value to save</string>
+    <string name="remove">remove</string>
+    <string name="button">button</string>
+</resources>
